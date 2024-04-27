@@ -5,3 +5,9 @@ Given a number n, and n input strings: for each input string find the number of 
 ## Run the Lab:
 On Windows:
 type [input file] | python DynamicPalindromePartition.py
+## Sample Output:
+### - sample1.txt
+1  
+5  
+2  
+### - sample2.txt
